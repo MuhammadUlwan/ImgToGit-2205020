@@ -22,4 +22,4 @@ jobs:
       uses: docker/build-push-action@v5
       with:
         push: true
-        tags: gandenpriatna/my-custom-image:latest
+        tags: mr1oneee/my-custom-image:latest
